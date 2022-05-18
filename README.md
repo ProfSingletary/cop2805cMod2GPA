@@ -1,4 +1,3 @@
-# cop2805cMod2GPA
 # COP2805C Module 2 Graded Programming Assignment
 
 Implement a public Customer class which contains the following members:
